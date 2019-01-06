@@ -1,0 +1,6 @@
+This is a Simple News Portal which fetches News from API with different leading news sources and display on front end 
+using Material UI. 
+
+Developed using React Js and Material UI with Load Dash.
+
+While more focus is based on functionality that UI here using a clean code approach.
